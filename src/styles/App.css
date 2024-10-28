@@ -1,0 +1,17 @@
+.app.jour {
+    background-color: white;
+    color: black;
+  }
+  
+  .app.nuit {
+    background-color: #121212;
+    color: white;
+  }
+  
+  /* Styles généraux */
+  body, html, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  

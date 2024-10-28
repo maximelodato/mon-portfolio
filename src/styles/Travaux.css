@@ -1,0 +1,18 @@
+.travaux {
+    padding: 16px;
+  }
+  
+  .projets {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .projet {
+    flex: 1;
+    margin: 8px;
+  }
+  
+  .projet img {
+    max-width: 100%;
+  }
+  

@@ -1,3 +1,14 @@
+
+.app.jour {
+  background-color: white;
+  color: black;
+}
+
+.app.nuit {
+  background-color: #121212;
+  color: white;
+}
+
 .App {
   text-align: center;
 }
